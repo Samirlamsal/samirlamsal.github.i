@@ -1,2 +1,1 @@
-# webbootcamp-template
-This is the template for Web BootCamp.
+<h1>Welcome!!</h1>
